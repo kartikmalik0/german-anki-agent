@@ -1,0 +1,14 @@
+# Your personal word files (keep private, not for git)
+words.txt
+vocab_backup.tsv
+vocab_backup.tsv.tmp
+
+# Virtual environment
+venv/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Secrets, in case you ever store your key in a file
+.env
